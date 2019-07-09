@@ -1,20 +1,17 @@
 ---
 layout: post
-title:  "Tech Firm Battle"
+title:  "Reflections on work environments"
 date:   2019-06-20
 author: "Adriel"
 ---
 
 <img src="{{ site.url }}/assets/apple-orange-comparison.jpg" width="100%">
 
+As I reflect on my career thus far, I like to think about the different work environments I've been a part of and how they compare with each other.
 
-A couple of months in true software engineer fashion, I switched employers in search of new adventure and greener pastures.
+Every job has it's pros and cons and I don't intend to pick favorites. Rather, I'm conducting a comparison in order get closer to finding the optimal way of developing software.
 
-I said goodbye to my coworkers and the project I had been working on for the past few years and moved a few blocks away to a new job. It was bittersweet leaving a project I had put so much effort into, however I was excited to see what I would learn from the switch.
-
-After reflecting for a couple of months I couldn't help but compare the practices and norms from Job A (previous) to Job B (current).
-
-This is not meant to be an evaluation or rating of each job. Both jobs have advantages and disadvantages and it would be unfair to pick favorites. Rather, I'd like to conduct a comparison and reflection in order get closer to finding the optimal way of developing software.
+So let's compare Job A with Job B...
 
 ## Software development methodology
 
@@ -30,11 +27,11 @@ This is not meant to be an evaluation or rating of each job. Both jobs have adva
 
 Both companies embrace scrum principles and strive to implement it into daily life. I feel like company A followed scrum a bit more strictly than company B, however that doesn't necessarily make it better.
 
-I liked how in my last job we had a strict time box for standups and made sure not to go over.
+I liked how in Job A had a strict time box for standups and made sure not to go over.
 
-Although we did retrospective after every sprint in my previous job, I didn't necessarily think we gained a lot from doing it. In fact, I think sometimes people were just not really sure what to say during retrospective.
+Although we did retrospective after every sprint in Job A, I didn't necessarily think we gained a lot from doing it. In fact, I think sometimes people were just not really sure what to say during retrospective.
 
-In my current job we've skipped past retrospective. I can't say I miss retrospective very much, however I do think it would be nice to do it every once in a while or just for 15 minutes.
+In Job B we've skipped past retrospective. I can't say I miss retrospective very much, however I do think it would be nice to do it every once in a while or just for 15 minutes.
 
 I'm all for continuious improvement, but to have to come up with a concrete plan of what to change process-wise for each sprint is a bit overkill in my opinion.
 
@@ -132,7 +129,7 @@ A big difference is that in Job B, almost everyone in the office is either an en
 
 In Job A, I had nothing to do with releasing our software. My job was to commit code to the master branch of our repositories. After the sprint ended and on a specific time window a release engineer would deploy our software to production environments in a process I was unfamiliar with.
 
-In Job B, I am the person responsible to releasing software to production. There is no set interval when the code gets released, rather it gets released when a product manager asks for it. Deploying is as easy and running a command on a terminal.
+In Job B, the engineers building the software are responsible to releasing software to production. There is no set interval when the code gets released, rather it gets released when a product manager asks for it. Deploying is as easy and running a command on a terminal.
 
 Both have their ups and downs. Job A was nice because I never had to worry about deployment and I could just focus on building. However Job B is nice because I have more control about when to release, and it empowers me knowing I have the ability to get features or fixes into the hands of customers all on my own. This doesn't come without it's drawbacks though. In Job B, there is often confusion about which versions of software are running on which environments and sometimes it's not clear what has been released and what hasn't.
 
