@@ -1,27 +1,26 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
+permalink: pretty
 
 # Setup
-title:               Adriel's Dev Blog
-tagline:             'Eat, Sleep, Code, Repeat...'
-description:         'A collection of lessons learned and reflections about the world of code.'
-url:                 http://adrielklein.github.io/
-baseurl:             https://adrielklein.github.io/
-paginate:            1
-repo:            https://github.com/adrielklein/adrielklein.github.io
+title: Adriel's Dev Blog
+tagline: "Eat, Sleep, Code, Repeat..."
+description: "A collection of lessons learned and reflections about the world of code."
+url: http://adrielklein.github.io
+baseurl: /
+paginate: 1
+repo: https://github.com/adrielklein/adrielklein.github.io
 default_img: https://adrielklein.github.io/assets/usain.jpg
 
 # About/contact
 author:
-  name:              Adriel Klein
-  url:               http://adrielklein.github.io
-  email:             adrielmklein@gmail.com
+  name: Adriel Klein
+  url: http://adrielklein.github.io
+  email: adrielmklein@gmail.com
 
 # Custom vars
-version:             2.1.0
+version: 2.1.0
 
 gems: [jekyll-paginate]
-
 # Permalinks
